@@ -6,7 +6,7 @@ public class Division{
      * @return x/y
      */
     public double divide(double x, double y){
-        return x/y + 1; //to make it false at first
+        return x/y;
     }
 
     public static void main(String[] args){
